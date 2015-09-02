@@ -1,0 +1,1 @@
+This is an implementation of the Galaxian arcade game on Papilio board that uses a Spartan 6 FPGA. The game was originally done in Verilog by Katsumi Degawa. I translated it to VHDL, and have also updated the sound section implementing three VCO's for the background sound to replicate the Galaxian sound that changes rate as the game progresses.
